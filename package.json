@@ -1,0 +1,28 @@
+{
+  "name": "trsozluk",
+  "version": "0.0.5",
+  "description": "TDK'daki kelimelerin anlamları, örnekleri, yazarları, atasözleri ve birçok dahası bu modülde",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/egekayro46/tdk-api"
+  },
+  "keywords": [
+    "tdk-api",
+    "tdk",
+    "sozluk",
+    "sozluk-api"
+  ],
+  "author": "Ege",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egekayro46/trsozluk"
+  },
+  "homepage": "https://github.com/egekayro46/trsozluk#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

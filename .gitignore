@@ -1,0 +1,3 @@
+# Bu dosya Github'a Dosya Aktarılırken Dahil edilmemesi gereken dosyalar için oluşturulmuştur.
+node_modules
+# Node Modules Klasörü Veri Alırken Kullanılan Modüllerin Github'a aktarılmaması için yapılmıştır.
